@@ -7,8 +7,6 @@ package com.ybh.git;
  */
 public class GitTest {
     public static void main(String[] args) {
-        System.out.println("this is Git test.........");
-        System.out.println("this is Git test1.........");
-        System.out.println("this is Git test2.........");
+        System.out.println("this is hot-fix.........");
     }
 }
